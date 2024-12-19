@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A4269698-930B-4722-9174-F445E738CFE6}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353ED1A2-FDB2-4C60-8544-61FAADF7A814}|..\\Class 10th (Divide and Conquer)\\Class 10th (Divide and Conquer).vcxproj|C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\Algorithm\\Class 10th (Divide and Conquer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DE1DB6FB-11C3-43FE-BEF3-857B1B788CDF}|..\\Class 11th (Quick Sort)\\Class 11th (Quick Sort).vcxproj|C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\Algorithm\\Class 11th (Quick Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,13 +23,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\Algorithm\\Class 10th (Divide and Conquer)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class 10th (Divide and Conquer)\\Source.cpp",
-              "ToolTip": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\Algorithm\\Class 10th (Divide and Conquer)\\Source.cpp",
-              "RelativeToolTip": "..\\Class 10th (Divide and Conquer)\\Source.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwDQAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\Algorithm\\Class 11th (Quick Sort)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 11th (Quick Sort)\\Source.cpp",
+              "ToolTip": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\Algorithm\\Class 11th (Quick Sort)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 11th (Quick Sort)\\Source.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwE4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-18T12:18:58.398Z",
+              "WhenOpened": "2024-12-19T12:36:00.956Z",
               "EditorCaption": ""
             },
             {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\Algorithm\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T12:03:31.557Z",
               "EditorCaption": ""
