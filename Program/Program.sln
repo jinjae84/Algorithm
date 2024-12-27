@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 14th (Sieve of Eratos
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 15th (Greedy)", "..\Class 14th (Greedy)\Class 14th (Greedy).vcxproj", "{3AACD580-16FD-4987-92CA-6B19413C88B3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 16th (Depth First Search)", "..\Class 16th (Depth First Search)\Class 16th (Depth First Search).vcxproj", "{4E45D55F-56C2-4169-8432-5F6B236DBA1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{3AACD580-16FD-4987-92CA-6B19413C88B3}.Release|x64.Build.0 = Release|x64
 		{3AACD580-16FD-4987-92CA-6B19413C88B3}.Release|x86.ActiveCfg = Release|Win32
 		{3AACD580-16FD-4987-92CA-6B19413C88B3}.Release|x86.Build.0 = Release|Win32
+		{4E45D55F-56C2-4169-8432-5F6B236DBA1F}.Debug|x64.ActiveCfg = Debug|x64
+		{4E45D55F-56C2-4169-8432-5F6B236DBA1F}.Debug|x64.Build.0 = Debug|x64
+		{4E45D55F-56C2-4169-8432-5F6B236DBA1F}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E45D55F-56C2-4169-8432-5F6B236DBA1F}.Debug|x86.Build.0 = Debug|Win32
+		{4E45D55F-56C2-4169-8432-5F6B236DBA1F}.Release|x64.ActiveCfg = Release|x64
+		{4E45D55F-56C2-4169-8432-5F6B236DBA1F}.Release|x64.Build.0 = Release|x64
+		{4E45D55F-56C2-4169-8432-5F6B236DBA1F}.Release|x86.ActiveCfg = Release|Win32
+		{4E45D55F-56C2-4169-8432-5F6B236DBA1F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
