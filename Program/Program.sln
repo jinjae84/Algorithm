@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 17th (Breadth First S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 18th (Union Find)", "..\Class 18th (Union Find)\Class 18th (Union Find).vcxproj", "{05436BAC-2D90-4AA6-A2FC-50B3915F9A90}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 19th (Topology Sort)", "..\Class 19th (Topology Sort)\Class 19th (Topology Sort).vcxproj", "{5B173683-DFD7-4211-89B1-0192D271E4DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{05436BAC-2D90-4AA6-A2FC-50B3915F9A90}.Release|x64.Build.0 = Release|x64
 		{05436BAC-2D90-4AA6-A2FC-50B3915F9A90}.Release|x86.ActiveCfg = Release|Win32
 		{05436BAC-2D90-4AA6-A2FC-50B3915F9A90}.Release|x86.Build.0 = Release|Win32
+		{5B173683-DFD7-4211-89B1-0192D271E4DE}.Debug|x64.ActiveCfg = Debug|x64
+		{5B173683-DFD7-4211-89B1-0192D271E4DE}.Debug|x64.Build.0 = Debug|x64
+		{5B173683-DFD7-4211-89B1-0192D271E4DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B173683-DFD7-4211-89B1-0192D271E4DE}.Debug|x86.Build.0 = Debug|Win32
+		{5B173683-DFD7-4211-89B1-0192D271E4DE}.Release|x64.ActiveCfg = Release|x64
+		{5B173683-DFD7-4211-89B1-0192D271E4DE}.Release|x64.Build.0 = Release|x64
+		{5B173683-DFD7-4211-89B1-0192D271E4DE}.Release|x86.ActiveCfg = Release|Win32
+		{5B173683-DFD7-4211-89B1-0192D271E4DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
