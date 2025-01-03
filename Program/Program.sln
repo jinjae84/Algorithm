@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 18th (Union Find)", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 19th (Topology Sort)", "..\Class 19th (Topology Sort)\Class 19th (Topology Sort).vcxproj", "{5B173683-DFD7-4211-89B1-0192D271E4DE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 20th (Minimum Spanning Tree)", "..\Class 20th (Minimum Spanning Tree)\Class 20th (Minimum Spanning Tree).vcxproj", "{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{5B173683-DFD7-4211-89B1-0192D271E4DE}.Release|x64.Build.0 = Release|x64
 		{5B173683-DFD7-4211-89B1-0192D271E4DE}.Release|x86.ActiveCfg = Release|Win32
 		{5B173683-DFD7-4211-89B1-0192D271E4DE}.Release|x86.Build.0 = Release|Win32
+		{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}.Debug|x64.ActiveCfg = Debug|x64
+		{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}.Debug|x64.Build.0 = Debug|x64
+		{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}.Debug|x86.Build.0 = Debug|Win32
+		{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}.Release|x64.ActiveCfg = Release|x64
+		{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}.Release|x64.Build.0 = Release|x64
+		{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}.Release|x86.ActiveCfg = Release|Win32
+		{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
