@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 19th (Topology Sort)"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 20th (Minimum Spanning Tree)", "..\Class 20th (Minimum Spanning Tree)\Class 20th (Minimum Spanning Tree).vcxproj", "{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 21th (Daijkstra)", "..\Class 21th (Daijkstra)\Class 21th (Daijkstra).vcxproj", "{8135FD71-407B-4964-9928-25CBD7073645}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}.Release|x64.Build.0 = Release|x64
 		{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}.Release|x86.ActiveCfg = Release|Win32
 		{13E0CEB3-74A5-40B5-ABFE-9DB381FF37A8}.Release|x86.Build.0 = Release|Win32
+		{8135FD71-407B-4964-9928-25CBD7073645}.Debug|x64.ActiveCfg = Debug|x64
+		{8135FD71-407B-4964-9928-25CBD7073645}.Debug|x64.Build.0 = Debug|x64
+		{8135FD71-407B-4964-9928-25CBD7073645}.Debug|x86.ActiveCfg = Debug|Win32
+		{8135FD71-407B-4964-9928-25CBD7073645}.Debug|x86.Build.0 = Debug|Win32
+		{8135FD71-407B-4964-9928-25CBD7073645}.Release|x64.ActiveCfg = Release|x64
+		{8135FD71-407B-4964-9928-25CBD7073645}.Release|x64.Build.0 = Release|x64
+		{8135FD71-407B-4964-9928-25CBD7073645}.Release|x86.ActiveCfg = Release|Win32
+		{8135FD71-407B-4964-9928-25CBD7073645}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
